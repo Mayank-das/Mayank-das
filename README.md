@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Mayank das</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-das&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-das" /> </p>
 
-- 🔭 I’m currently working on **Multi Converter software**
+- 🔭 I’m currently **Learning**
 
 - 📫 How to reach me **mayankdass9927@gmail.com**
 
